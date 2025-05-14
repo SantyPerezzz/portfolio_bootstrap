@@ -34,4 +34,4 @@ Podés contactarme a través de:
 ## 🔗 Deployment
 
 Este sitio está publicado en:  
-➡️ [santyperezzz.github.io/portfolio_bootstrap/](santyperezzz.github.io/portfolio_bootstrap/)
+➡️ https://santyperezzz.github.io/portfolio_bootstrap/
