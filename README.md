@@ -20,8 +20,9 @@ Aclaracion: Todavía no está terminado, faltan armar algunas cosas y agregar in
 
 ## 📸 Captura
 
-![Captura del portfolio desktop](./readme_img_desktop.png) <!-- Si tenés una imagen del sitio -->
-![Captura del portfolio mobile](./readme_img_mobile.png)
+![Captura del portfolio desktop](./desktop.png) <!-- Si tenés una imagen del sitio -->
+
+![Captura del portfolio mobile](./mobile.png)
 
 ## 📫 Contacto
 
