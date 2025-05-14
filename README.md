@@ -2,6 +2,8 @@
 
 Este es mi portfolio personal, donde presento mis habilidades técnicas, información sobre mí y mi experiencia como desarrollador. Está construido con HTML, CSS, JavaScript y Bootstrap.
 
+Aclaracion: Todavía no está terminado, faltan armar algunas cosas y agregar información, pero quise ir subiendo lo que hice hasta ahora!
+
 ## 🚀 Tecnologías utilizadas
 
 - HTML5
