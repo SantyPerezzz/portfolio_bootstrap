@@ -18,7 +18,7 @@ Este es mi portfolio personal, donde presento mis habilidades técnicas, informa
 
 ## 📸 Captura
 
-![Captura del portfolio](./screenshot.png) <!-- Si tenés una imagen del sitio -->
+![Captura del portfolio](./readme_img.png) <!-- Si tenés una imagen del sitio -->
 
 ## 📫 Contacto
 
