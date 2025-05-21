@@ -15,7 +15,6 @@ Aclaracion: Todavía no está terminado, faltan armar algunas cosas y agregar in
 ## ✨ Funcionalidades
 
 - Diseño responsive
-- Animaciones y estilos modernos
 - Formulario de contacto (Formspree para enviarlo a mi correo y js para evitar la redirección y manejarlo a gusto)
 
 ## 📸 Captura
