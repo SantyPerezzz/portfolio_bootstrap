@@ -4,7 +4,7 @@ Este es mi portfolio personal, donde presento mis habilidades técnicas, informa
 
 Aclaracion: Todavía no está terminado, faltan armar algunas cosas y agregar información, pero quise ir subiendo lo que hice hasta ahora!
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - HTML5
 - CSS3
@@ -12,25 +12,25 @@ Aclaracion: Todavía no está terminado, faltan armar algunas cosas y agregar in
 - Bootstrap 5
 - Formspree
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Diseño responsive
 - Formulario de contacto (Formspree para enviarlo a mi correo y js para evitar la redirección y manejarlo a gusto)
 
-## 📸 Captura
+## Captura
 
 ![Captura del portfolio desktop](./desktop.png) <!-- Si tenés una imagen del sitio -->
 
 ![Captura del portfolio mobile](./mobile.png)
 
-## 📫 Contacto
+## Contacto
 
 Podés contactarme a través de:
 - El formulario del portfolio
 - santi.agus.perez.2002@gmail.com
 - linkedin.com/in/santiago-agustín-perez-b83346244/
 
-## 🔗 Deployment
+## Deployment
 
 Este sitio está publicado en:  
-➡️ https://santyperezzz.github.io/portfolio_bootstrap/
+https://santyperezzz.github.io/portfolio_bootstrap/
