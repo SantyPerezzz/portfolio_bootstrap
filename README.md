@@ -1,6 +1,6 @@
 # Portfolio de Santiago Perez
 
-Este es mi portfolio personal, donde presento mis habilidades técnicas, información sobre mí y mi experiencia como desarrollador. Está construido con HTML, CSS, JavaScript y Bootstrap.
+Este es mi portfolio personal, donde presento mis habilidades técnicas e información sobre mí. Está construido con HTML, CSS, JavaScript y Bootstrap.
 
 Aclaracion: Todavía no está terminado, faltan armar algunas cosas y agregar información, pero quise ir subiendo lo que hice hasta ahora!
 
