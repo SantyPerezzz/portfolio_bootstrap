@@ -7,7 +7,7 @@ Aclaracion: Todavía no está terminado, faltan armar algunas cosas y agregar in
 ## Tecnologías utilizadas
 
 - HTML
-- CSS3
+- CSS
 - JavaScript
 - Bootstrap
 - Formspree
