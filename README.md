@@ -28,7 +28,7 @@ Aclaracion: Todavía no está terminado, faltan armar algunas cosas y agregar in
 Podés contactarme a través de:
 - El formulario del portfolio
 - santi.agus.perez.2002@gmail.com
-- linkedin.com/in/santiago-agustín-perez-b83346244/
+- [linkedin.com/in/santiago-agustín-perez-b83346244/](https://www.linkedin.com/in/santiago-agustín-perez-b83346244/)
 
 ## Deployment
 
