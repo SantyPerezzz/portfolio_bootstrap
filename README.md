@@ -6,10 +6,10 @@ Aclaracion: Todavía no está terminado, faltan armar algunas cosas y agregar in
 
 ## Tecnologías utilizadas
 
-- HTML5
+- HTML
 - CSS3
-- JavaScript (vanilla)
-- Bootstrap 5
+- JavaScript
+- Bootstrap
 - Formspree
 
 ## Funcionalidades
